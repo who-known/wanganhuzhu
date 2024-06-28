@@ -1,5 +1,4 @@
 # wanganhuzhu
-biaoge
 如何使用此文档？
 第一步：解压此 .7z压缩包
 第二步：打开xlsx表格即可。
